@@ -14,7 +14,11 @@ namespace FiledRecipes.Views
     {
         public virtual void Show(IRecipe recipe)
         {
-
+            //place holder//
+        }
+        public virtual void Show(IEnumerable<IRecipe> recipes)
+        {
+            //Place holder//
         }
     }
 }
