@@ -131,7 +131,7 @@ namespace FiledRecipes.Domain
         {
 
         }
-        public viritual void Save()
+        public virtual void Save()
         {
 
         }
